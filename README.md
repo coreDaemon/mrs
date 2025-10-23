@@ -121,8 +121,8 @@ Now open your browser and navigate to [http://localhost:8501](http://localhost:8
 When you launch the app:
 
 1. Select or search for a movie (e.g., *Inception*).  
-2. The app displays the top 5 or 10 most similar movies.  
-3. Optionally, it can show posters, ratings, and links (if TMDB API integration is added).
+2. The app displays the top 5 most similar movies.  
+3. Optionally, it also shows posters of the movies.
 
 ---
 
