@@ -5,13 +5,10 @@ This app helps users discover new movies similar to the ones they already love �
 
 ---
 
-## 🌐 Demo
+## 🌐 Live Demo
 
-> 🚀 Coming soon — deploy on [Streamlit Cloud](https://streamlit.io/cloud) or any web host.  
-> Example:
-> ```
-> streamlit run app.py
-> ```
+🎥 **Try it now:**  
+👉 [Movie Recommender System (MRS)](https://mrs-fyo8.onrender.com/)
 
 ---
 
