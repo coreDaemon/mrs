@@ -1,4 +1,3 @@
 movie
 .env
-similarity.pkl
 movies.pkl

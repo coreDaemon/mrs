@@ -5,6 +5,12 @@ import requests
 import time
 import os
 
+st.set_page_config(
+    page_title="Movie Recommender",  # tab title
+    page_icon="static/assets/icon.svg",  # path to your SVG icon
+    layout="wide"  # optional
+)
+
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
 
 
